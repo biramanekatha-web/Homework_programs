@@ -1,15 +1,8 @@
-# list1 = [1,2,3,4,5]
-# sum=0
-# for i in list1:
-#     sum=sum+i
-# print("Sum of list is ",sum)
+
 
 
 salary = [67000,45000,78000,55000,28000,44000,33000]
 # num1=salary.sort()
-num2=sorted(salary)
-print(num2)
-print(salary)
 # print("Sorted list is ",salary)
 # print(salary[-2])
 # print(salary[1])
